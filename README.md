@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ElijahObua
-- 👀 I’m interested in Data science, Ai
+- 👀 I’m interested in Data science.
 - 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on building a web-based application
 - 📫 How to reach me whatsapp: +2348051007986
 
 <!---
